@@ -15,6 +15,7 @@
 * The data extraction process gives the following results:
   1. Reviews: written critic of users.
   2. Stars: from 1 to 5 where 5 is the maximum possible value.
+![image]https://github.com/YoussefAithaddou/Predicting-movie-ratings-based-on-reviews-using-Naive-Bayes/blob/main/Movie%20reviews.PNG
 
 
 
